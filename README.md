@@ -14,7 +14,7 @@ https://jp.mathworks.com/help/rptgenext/ug/tutorial-creating-web-views-of-simuli
 下記の通り”保存”→”モデルのエクスポート先”→”WebView”を選択いただくと
 
 - WebView形式のHTMLファイル:webview.html
-- スタイルシート:stylesheetsフルだ
+- スタイルシート:stylesheetsフォルダ
 - インタラクティブ表示をするスクリプト記述：supportフォルダ
 
 ![Snag_1ea6a34](https://user-images.githubusercontent.com/62166747/196384738-a16febba-e756-48c5-838b-6acc17a37693.png)
