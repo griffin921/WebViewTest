@@ -1,0 +1,37 @@
+{
+ "baseUrl":"support/slwebview_files",
+ "homeHid":1,
+ "initialElement":"",
+ "sections":[
+  {
+   "hid":1,
+   "sid":"PFC_SystemArch",
+   "name":"PFC_SystemArch",
+   "fullname":"PFC_SystemArch",
+   "label":"PFC_SystemArch",
+   "parent":0,
+   "descendants":[
+    2,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "hierarchyUrl":"support/slwebview_files/PFC_SystemArch_h_1.json",
+   "backingUrl":"support/slwebview_files/PFC_SystemArch_m.json"
+  }
+ ],
+ "optViews":[
+ ],
+ "display":{
+  "informer":true
+ },
+ "iconsUrl":"support/slwebview_files/PFC_SystemArch_icons.css"
+}
