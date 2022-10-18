@@ -12,13 +12,17 @@ https://jp.mathworks.com/help/rptgenext/ug/tutorial-creating-web-views-of-simuli
 ## System Composer or Simulink編集画面からWebViewの作成
 
 下記の通り”保存”→”モデルのエクスポート先”→”WebView”を選択いただくと
-- WebView形式のHTMLファイル
-- スタイルシート
-- Javascriptによるインタラクティブ表示をするスクリプト記述
+
+- WebView形式のHTMLファイル:webview.html
+- スタイルシート:stylesheetsフルだ
+- インタラクティブ表示をするスクリプト記述：supportフォルダ
+
+![Snag_1ea6a34](https://user-images.githubusercontent.com/62166747/196384738-a16febba-e756-48c5-838b-6acc17a37693.png)
 を生成できます。
+
 ![Snag_1d65d44](https://user-images.githubusercontent.com/62166747/196379420-ce912bc8-32e1-432e-b80e-f71bbdd21a87.png)
 
-あとは任意のWebサーバーにすべてをアップロードするだけで共有が可能になります。
+あとは任意のWebサーバーに上記すべてのファイルをアップロードするだけで共有が可能になります。
 例としてGitHubに設定されたHTTPサーバーにアップロードを行った結果を下記リンク先で確認できます。
 
 https://griffin921.github.io/WebViewTest/SystemComposer_Webview/webview.html
