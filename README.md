@@ -42,7 +42,8 @@ https://griffin921.github.io/WebViewTest/ReqTbx_Webview/webview.html
 ## SharepointでのWebViewの公開について
 
 上記 GitHubでの例の通り、Webサーバに配置さえすれば問題なく閲覧は可能です。
-一方でSharepointで共有する際には.master拡張子のファイルに変換が必要になります。
+一方でSharepointで共有する際にはhtmlファイルをそのまま配置しても閲覧はできず、
+.master拡張子のファイルに変換が必要になります。
 
 この変換においてはMicrosoft側の範疇になります。
 
