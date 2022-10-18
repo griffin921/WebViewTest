@@ -1,0 +1,13 @@
+.PFC_SystemArch0,
+.PFC_SystemArch1,
+.PFC_SystemArch2,
+.PFC_SystemArch3,
+.PFC_SystemArch4,
+.PFC_SystemArch5 { background-image: url('PFC_SystemArch_icons.png'); width: 16px; height: 16px; }
+
+.PFC_SystemArch0 { background-position: -0px; }
+.PFC_SystemArch1 { background-position: -16px; }
+.PFC_SystemArch2 { background-position: -32px; }
+.PFC_SystemArch3 { background-position: -48px; }
+.PFC_SystemArch4 { background-position: -64px; }
+.PFC_SystemArch5 { background-position: -80px; }

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" display="inline" height="796.000000px" preserveAspectRatio="xMinYMin meet" viewBox="-9.00 -1.00 1824.00 796.00" width="1824.000000px" x="0" y="0" zoomAndPan="disable">
+  <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel">
+    <!--RAWSTRING-->
+    <g id="PFC_SystemArch:44">
+      <g clip-path="none" fill="#ffffff" fill-opacity="1" opacity="1" stroke="#a8a8a8" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,0,0)">
+        <path d="M0,2 C0,0.895431 0.895431,0 2,0 L1803,0 C1804.1,0 1805,0.895431 1805,2 L1805,792 C1805,793.105 1804.1,794 1803,794 L2,794 C0.895431,794 0,793.105 0,792 L0,2 z" fill-rule="evenodd" vector-effect="none"/>
+      </g>
+      <!--RAWSTRING-->
+      <g data-tags="SystemBoxCueContainer">
+        <g clip-path="none" fill="#f9e4b1" fill-opacity="1" opacity="1" stroke="#a8a8a8" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,0,0)">
+          <path d="M0,2 C0,0.895431 0.895431,0 2,0 L1803,0 C1804.1,0 1805,0.895431 1805,2 L1805,25 L0,25 L0,2 z" fill-rule="nonzero" vector-effect="none"/>
+        </g>
+        <!--RAWSTRING-->
+        <g data-tags="SystemPortCue">
+          <g clip-path="none" fill="#ffffff" fill-opacity="1" opacity="1" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,0,225)">
+            <path d="M8,0 C8,4.41828 4.41828,8 0,8 C-4.41828,8 -8,4.41828 -8,0 C-8,-4.41828 -4.41828,-8 0,-8 C4.41828,-8 8,-4.41828 8,0 z" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <g clip-path="none" fill="none" opacity="1" stroke="#a8a8a8" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,0,225)">
+            <path d="M0,8 C4.41828,8 8,4.41828 8,0 C8,-4.41828 4.41828,-8 0,-8" fill-rule="nonzero" vector-effect="none"/>
+          </g>
+          <g clip-path="none" fill="#ffffff" fill-opacity="1" opacity="0.2" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,-8,217)">
+            <image height="18" preserveAspectRatio="none" width="18" x="-1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAuElEQVQ4je2RIQ7CQBREZzaEpodAoYCEG6CpQ1V1N0WBR3ECPCdA/B6gjmA5AgngkRxiPwaB6DaloqrP/GQyeZnkAz2dwaowy7IpgIMxZiMi7yYiUxkaY0iuVPVhrd2laTpsJQIAVb2TXABIoii6WWuTViIAEJFnURRLAHsAJ+fcK8/z8d+in3X8Xg11BnUC59xEVY8kRwDWInIJdYOLSM5U9UryHMfxvE4SXOS99yRLktum7+/pkA+eazoQmpO4pwAAAABJRU5ErkJggg==" y="-1"/>
+          </g>
+          <!--RAWSTRING-->
+          <g data-tags="SystemBoundaryPortBusElementNameLabel">
+            <defs>
+              <clipPath id="clip1">
+                <path d="M-18,-218.5 L1805,-218.5 L1805,576.5 L-18,576.5 L-18,-218.5 z"/>
+              </clipPath>
+            </defs>
+            <g clip-path="url(#clip1)" fill="none" opacity="1" stroke="#555555" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,10,218)">
+              <text fill="#555555" fill-opacity="1" font-family="Arial" font-size="10" font-style="normal" font-weight="400" stroke="none" textLength="64.9062" x="1" xml:space="preserve" y="10">ControlSignals</text>
+            </g>
+            <!--RAWSTRING-->
+          </g>
+          <g clip-path="none" fill="#808080" fill-opacity="1" opacity="0" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="1" stroke-width="2" transform="matrix(1,0,0,1,0,225)">
+            <path d="M9,5 L5,9 L1,9 L1,1 L5,1 L9,5 z" fill-rule="nonzero" vector-effect="none"/>
+          </g>
+          <!--RAWSTRING-->
+        </g>
+        <!--RAWSTRING-->
+        <g data-tags="SystemPortCue">
+          <g clip-path="none" fill="#ffffff" fill-opacity="1" opacity="1" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,0,595)">
+            <path d="M8,0 C8,4.41828 4.41828,8 0,8 C-4.41828,8 -8,4.41828 -8,0 C-8,-4.41828 -4.41828,-8 0,-8 C4.41828,-8 8,-4.41828 8,0 z" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <g clip-path="none" fill="none" opacity="1" stroke="#a8a8a8" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,0,595)">
+            <path d="M0,8 C4.41828,8 8,4.41828 8,0 C8,-4.41828 4.41828,-8 0,-8" fill-rule="nonzero" vector-effect="none"/>
+          </g>
+          <g clip-path="none" fill="#ffffff" fill-opacity="1" opacity="0.2" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,-8,587)">
+            <image height="18" preserveAspectRatio="none" width="18" x="-1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABMklEQVQ4jd2TrU9DMRTFz30h7yVIxCR6oEjgrwCBmiDtlTiWkDkIZCR8yYWAQ7YdEgP8EyDA8KFxMziSTfRgxvK2vbcJUDuu9/T+etrcAjMrKSpaa7dEZJvk99BmkXmS1977m6mgWq22kGXZO8kLAC95L0mSFZL1GGO13W5/5b25UVCapk0AtyGE04Kwd6q6mCRJE8Du0CH5hTFmWUSMiBwWQH51AMCq6lIZSESkBeDMOdcpozjnOiTPY4wt5J5mADLGbABY7Xa7VxPSAAB6vd6liKxZa9cLr/YXDUAhhHuST1mW7UxrStO0DuDRe/9QlIgAGgD2VbVSBlHViojsiUij3zMGQgjhlWQgeTwh0AkA75x7yxfH5ojkkYh8qOpnjPE57/UHcjPGWB3t+7cvMsP6AcMiem0MS8biAAAAAElFTkSuQmCC" y="-1"/>
+          </g>
+          <!--RAWSTRING-->
+          <g data-tags="SystemBoundaryPortBusElementNameLabel">
+            <defs>
+              <clipPath id="clip2">
+                <path d="M-18,-588.5 L1805,-588.5 L1805,206.5 L-18,206.5 L-18,-588.5 z"/>
+              </clipPath>
+            </defs>
+            <g clip-path="url(#clip2)" fill="none" opacity="1" stroke="#555555" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,10,588)">
+              <text fill="#555555" fill-opacity="1" font-family="Arial" font-size="10" font-style="normal" font-weight="400" stroke="none" textLength="64.9062" x="1" xml:space="preserve" y="10">InputDCPower</text>
+            </g>
+            <!--RAWSTRING-->
+          </g>
+          <g clip-path="none" fill="#808080" fill-opacity="1" opacity="0" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="1" stroke-width="2" transform="matrix(1,0,0,1,0,595)">
+            <path d="M9,5 L5,9 L1,9 L1,1 L5,1 L9,5 z" fill-rule="nonzero" vector-effect="none"/>
+          </g>
+          <!--RAWSTRING-->
+        </g>
+        <!--RAWSTRING-->
+        <g data-tags="SystemPortCue">
+          <g clip-path="none" fill="#ffffff" fill-opacity="1" opacity="1" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,1805,595)">
+            <path d="M8,0 C8,4.41828 4.41828,8 0,8 C-4.41828,8 -8,4.41828 -8,0 C-8,-4.41828 -4.41828,-8 0,-8 C4.41828,-8 8,-4.41828 8,0 z" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <g clip-path="none" fill="none" opacity="1" stroke="#a8a8a8" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,1805,595)">
+            <path d="M0,-8 C-4.41828,-8 -8,-4.41828 -8,0 C-8,4.41828 -4.41828,8 0,8" fill-rule="nonzero" vector-effect="none"/>
+          </g>
+          <g clip-path="none" fill="#ffffff" fill-opacity="1" opacity="0.2" stroke="none" stroke-opacity="0" transform="matrix(-1,0,0,-1,1813,603)">
+            <image height="18" preserveAspectRatio="none" width="18" x="-1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABMklEQVQ4jd2TrU9DMRTFz30h7yVIxCR6oEjgrwCBmiDtlTiWkDkIZCR8yYWAQ7YdEgP8EyDA8KFxMziSTfRgxvK2vbcJUDuu9/T+etrcAjMrKSpaa7dEZJvk99BmkXmS1977m6mgWq22kGXZO8kLAC95L0mSFZL1GGO13W5/5b25UVCapk0AtyGE04Kwd6q6mCRJE8Du0CH5hTFmWUSMiBwWQH51AMCq6lIZSESkBeDMOdcpozjnOiTPY4wt5J5mADLGbABY7Xa7VxPSAAB6vd6liKxZa9cLr/YXDUAhhHuST1mW7UxrStO0DuDRe/9QlIgAGgD2VbVSBlHViojsiUij3zMGQgjhlWQgeTwh0AkA75x7yxfH5ojkkYh8qOpnjPE57/UHcjPGWB3t+7cvMsP6AcMiem0MS8biAAAAAElFTkSuQmCC" y="-1"/>
+          </g>
+          <!--RAWSTRING-->
+          <g data-tags="SystemBoundaryPortBusElementNameLabel">
+            <defs>
+              <clipPath id="clip3">
+                <path d="M-1741.77,-588.5 L81.2344,-588.5 L81.2344,206.5 L-1741.77,206.5 L-1741.77,-588.5 z"/>
+              </clipPath>
+            </defs>
+            <g clip-path="url(#clip3)" fill="none" opacity="1" stroke="#555555" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,1733.77,588)">
+              <text fill="#555555" fill-opacity="1" font-family="Arial" font-size="10" font-style="normal" font-weight="400" stroke="none" textLength="58.2344" x="2" xml:space="preserve" y="10">OutputPower</text>
+            </g>
+            <!--RAWSTRING-->
+          </g>
+          <g clip-path="none" fill="#808080" fill-opacity="1" opacity="0" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="1" stroke-width="2" transform="matrix(1,0,0,1,1805,595)">
+            <path d="M9,5 L5,9 L1,9 L1,1 L5,1 L9,5 z" fill-rule="nonzero" vector-effect="none"/>
+          </g>
+          <!--RAWSTRING-->
+        </g>
+        <!--RAWSTRING-->
+        <g data-tags="SystemPortCue">
+          <g clip-path="none" fill="#ffffff" fill-opacity="1" opacity="1" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,1805,225)">
+            <path d="M8,0 C8,4.41828 4.41828,8 0,8 C-4.41828,8 -8,4.41828 -8,0 C-8,-4.41828 -4.41828,-8 0,-8 C4.41828,-8 8,-4.41828 8,0 z" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <g clip-path="none" fill="none" opacity="1" stroke="#a8a8a8" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,1805,225)">
+            <path d="M0,-8 C-4.41828,-8 -8,-4.41828 -8,0 C-8,4.41828 -4.41828,8 0,8" fill-rule="nonzero" vector-effect="none"/>
+          </g>
+          <g clip-path="none" fill="#ffffff" fill-opacity="1" opacity="0.2" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,1797,217)">
+            <image height="18" preserveAspectRatio="none" width="18" x="-1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAuElEQVQ4je2RIQ7CQBREZzaEpodAoYCEG6CpQ1V1N0WBR3ECPCdA/B6gjmA5AgngkRxiPwaB6DaloqrP/GQyeZnkAz2dwaowy7IpgIMxZiMi7yYiUxkaY0iuVPVhrd2laTpsJQIAVb2TXABIoii6WWuTViIAEJFnURRLAHsAJ+fcK8/z8d+in3X8Xg11BnUC59xEVY8kRwDWInIJdYOLSM5U9UryHMfxvE4SXOS99yRLktum7+/pkA+eazoQmpO4pwAAAABJRU5ErkJggg==" y="-1"/>
+          </g>
+          <!--RAWSTRING-->
+          <g data-tags="SystemBoundaryPortBusElementNameLabel">
+            <defs>
+              <clipPath id="clip4">
+                <path d="M-1687.94,-218.5 L135.062,-218.5 L135.062,576.5 L-1687.94,576.5 L-1687.94,-218.5 z"/>
+              </clipPath>
+            </defs>
+            <g clip-path="url(#clip4)" fill="none" opacity="1" stroke="#555555" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,1679.94,218)">
+              <text fill="#555555" fill-opacity="1" font-family="Arial" font-size="10" font-style="normal" font-weight="400" stroke="none" textLength="112.062" x="2" xml:space="preserve" y="10">FeedBackFromConverter</text>
+            </g>
+            <!--RAWSTRING-->
+          </g>
+          <g clip-path="none" fill="#808080" fill-opacity="1" opacity="0" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="1" stroke-width="2" transform="matrix(1,0,0,1,1805,225)">
+            <path d="M9,5 L5,9 L1,9 L1,1 L5,1 L9,5 z" fill-rule="nonzero" vector-effect="none"/>
+          </g>
+          <!--RAWSTRING-->
+        </g>
+        <!--RAWSTRING-->
+      </g>
+      <!--RAWSTRING-->
+      <g data-tags="SystemBoxTitle">
+        <defs>
+          <clipPath id="clip5">
+            <path d="M-10,-4 L1813,-4 L1813,791 L-10,791 L-10,-4 z"/>
+          </clipPath>
+        </defs>
+        <g clip-path="url(#clip5)" fill="none" opacity="1" stroke="#464032" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,2,3.5)">
+          <text fill="#464032" fill-opacity="1" font-family="Arial" font-size="14" font-style="normal" font-weight="700" stroke="none" textLength="111.922" x="1" xml:space="preserve" y="14">Power Converter</text>
+        </g>
+        <!--RAWSTRING-->
+      </g>
+      <!--RAWSTRING-->
+    </g>
+  </g>
+  <!--generated on windows @ 2022-10-18 10:47:25 東京 (標準時)-->
+</svg>
