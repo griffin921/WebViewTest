@@ -37,7 +37,7 @@ WebViewはRequirements Toolbox側からも生成できます。
 
 前者の操作と同様にWebViewファイルが生成されますが、下記リンク先に示す通り要件情報がより見やすくなります。
 
-https://griffin921.github.io/WebViewTestReqTbx_Webview/webview.html
+https://griffin921.github.io/WebViewTest/ReqTbx_Webview/webview.html
 
 ## SharepointでのWebViewの公開について
 
